@@ -1,7 +1,7 @@
 
-# HELLO_WORLD_THIS_IS_GROUP_C_A
+# HELLO_WORLD_THIS_IS_GROUP_A
 
-LOOK @ THE WORKFLOW
+
 ## STEPS_FOR_TASK _GROUP_C
 
 1- i will gather the IAC structure info ( ec2-instances - sg - rds - etc.. )
